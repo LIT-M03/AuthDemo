@@ -1,0 +1,5 @@
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication14\Authentication.Data\bin\Debug\Authentication.Data.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication14\Authentication.Data\bin\Debug\Authentication.Data.pdb
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication14\Authentication.Data\obj\Debug\Authentication.Data.csprojResolveAssemblyReference.cache
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication14\Authentication.Data\obj\Debug\Authentication.Data.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication14\Authentication.Data\obj\Debug\Authentication.Data.pdb
